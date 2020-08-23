@@ -1,3 +1,3 @@
-# Golang input simple process example
+# For more information
 
 - [golang](https://golang.org/)
